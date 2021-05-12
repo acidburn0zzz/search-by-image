@@ -37,7 +37,7 @@
     "@material/typography": "^0.3.0",
     "ext-components": "dessant/ext-components#^0.1.1",
     "ext-contribute": "dessant/ext-contribute#^0.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "spinkit": "^1.2.5",
     "storage-versions": "dessant/storage-versions#^0.1.1",
     "typeface-roboto": "^0.0.45",
